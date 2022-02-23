@@ -4,6 +4,8 @@
 
 ![Sass/SCSS Assignment](https://raw.githubusercontent.com/suraj122/AC-STYLE-images/0a1c7bf4f5fe6376484ea36fea98b0d45f6be242/sass-scss/uniTech.png)
 
+<!-- .... -->
+
 #### Small Screen view(Below 768px)
 
 Find the small screen design in the assets folder. And For rest of the pages please figure out the small screen design.
